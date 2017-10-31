@@ -5,12 +5,12 @@ in Ca2+ imaging data. The package includes a GUI that supports the entire regist
 For more information contact lironsheintuch@gmail.com or join our [slack channel](https://cellreg.slack.com).
 
 ## Setting up the repository
-We encourage the use of official versions (e.g., v1.1.5) for easier debugging processes. Switch to the releases tab on GitHub and checkout the latest version.
+We encourage the use of official versions (e.g., v1.1.6) for easier debugging processes. Switch to the releases tab on GitHub and checkout the latest version.
 
 1. Cloning:
 `git clone https://github.com/zivlab/CellReg.git`
 2. Checkout version:
-`git checkout v<major>.<minor>.<bugfix> (e.g., v1.1.5)`
+`git checkout v<major>.<minor>.<bugfix> (e.g., v1.1.6)`
 3. Run `setup.m`
 
 ## Usage and documentation
@@ -47,4 +47,4 @@ distances and spatial correlations.
 5. Obtaining the final cell registration based on a clustering algorithm.
 
 ## References
-Sheintuch, L., Rubin, A., Brande-Eilat, N., Geva, N., Sadeh, N., Pinchasof, O., Ziv, Y. (2017). Tracking the Same Neurons across Multiple Days in Ca2+ Imaging Data. *Cell Reports*, in press.
+Sheintuch, L., Rubin, A., Brande-Eilat, N., Geva, N., Sadeh, N., Pinchasof, O., Ziv, Y. (2017). Tracking the Same Neurons across Multiple Days in Ca2+ Imaging Data. *Cell Reports*, 21(4), pp. 1102–1115. doi: 10.1016/j.celrep.2017.10.013.
